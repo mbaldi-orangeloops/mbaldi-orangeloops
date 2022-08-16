@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mbaldi-orangeloops
-- 👀 I’m interested in React, Next.js, Prisma and tRPC
+- 👀 I’m interested in React, RedWood, Prisma and tRPC
 - 🌱 I’m currently learning Ruby.
 - 📫 Reach me at marco.baldi@orangeloops.com
 
